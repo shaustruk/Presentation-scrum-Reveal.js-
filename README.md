@@ -1,1 +1,0 @@
-# presentation-SCRUM-Reveal.js
